@@ -50,7 +50,7 @@ TVS Motor - 1 month as Customer Support
  <h3 style={{marginTop:"10px"}}>
  3  Bhurav Devras Saraswati Vidya Mandir
 Higher Secondary Education
-April 2016 – April 2018 | Noida,Uttar pradesh, India
+April 2016 – April 2018 | Noida,Uttar pradesh
 </h3>
 
 
